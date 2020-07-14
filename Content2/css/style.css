@@ -2,7 +2,7 @@
 =                                              Estilos generales                                        =
 ========================================================================================================*/
 html, body {
-    height: 90%;
+    height: 100%;
     margin: 0;
     padding: 0;
     width: 100%;
@@ -12,7 +12,7 @@ html, body {
     position: relative;
 }
 video{
-    width: 90%;
+    width: 100%;
     height: auto;
     display: block;
     border-radius: 2px;
